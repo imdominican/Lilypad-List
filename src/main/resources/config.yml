@@ -1,0 +1,8 @@
+#Config.yml
+version: 1.0
+
+console-only: "false"
+no-permissions: "No permission."
+server-info:  "Server Information: "
+total-players: "Total players: "
+status: "Status: "

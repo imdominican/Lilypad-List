@@ -1,0 +1,5 @@
+name: Lilypad-List
+version: '${project.version}'
+main: me.trevon.lilypad.Main
+author: Trevon
+description: A Lilypad Addon
